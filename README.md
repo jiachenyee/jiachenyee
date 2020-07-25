@@ -15,26 +15,26 @@ I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Stu
 
 ## Projects
 ### Education • **PortableCL**
-[<img src="Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/portablecl/id1389024983)
+[<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/portablecl/id1389024983)
 
 PortableCL is a Primary School Chinese learning app built to help students learn Chinese in a more effective manner through digital flashcards. 
 
-<img src="Projects/portablecl.png" width="200">
+<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Projects/portablecl.png" width="200">
 
 ---
 
 ### Productivity • **Tasks - Productivity Elevated**
-[<img src="Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/tasks-productivity-elevated/id1440454388)
+[<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/tasks-productivity-elevated/id1440454388)
 
 Tasks - Productivity Elevated is a productivity app that helps users combat distractions by encouraging them to place their phones face-down and focus on the task at hand. 
  
-<img src="Projects/tasks.png" width="200">
+<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Projects/tasks.png" width="200">
 
 ---
 
 ### Utilities • **SST Announcer**
-[<img src="Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/sst-announcer/id683929182)
+[<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/sst-announcer/id683929182)
 
 SST Announcer was built to help students stay up to date with school announcements with ease and convenience. The app allows users to browse, pin and share important announcements made by the school. 
  
-<img src="Projects/announcer.png" width="200">
+<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Projects/announcer.png" width="200">
