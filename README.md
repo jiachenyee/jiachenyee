@@ -1,7 +1,7 @@
 # Hi, I'm Jia Chen 👋
 [![Instagram Badge](https://img.shields.io/badge/-jiachenyee-e04156?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/jiachenyee/)](http://instagram.com/jiachenyee/) [![Linkedin Badge](https://img.shields.io/badge/-Jia%20Chen%20Yee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jia-chen-yee/)](https://www.linkedin.com/in/jia-chen-yee/) 
 
-I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Student Challenge and I developed 3 apps, Tasks - Productivity Elevated, PortableCL and SST Announcer. 
+I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Student Challenge and I developed 3 apps, [Tasks - Productivity Elevated](#productivity--tasks---productivity-elevated), [PortableCL](#education--portablecl) and [SST Announcer](#utilities--sst-announcer). 
 
 ## Statistics 
 **Downloads** • 7.5k
