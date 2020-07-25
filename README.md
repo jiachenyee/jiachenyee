@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi, I'm Jia Chen 👋
+[![Instagram Badge](https://img.shields.io/badge/-jiachenyee-e04156?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/jiachenyee/)](http://instagram.com/jiachenyee/) [![Linkedin Badge](https://img.shields.io/badge/-Jia%20Chen%20Yee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jia-chen-yee/)](https://www.linkedin.com/in/jia-chen-yee/) 
 
-<!--
-**jiachenyee/jiachenyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Student Challenge and I developed 3 apps, Tasks - Productivity Elevated, PortableCL and SST Announcer. 
 
-Here are some ideas to get you started:
+## Statistics 
+**Downloads** • 7.5k
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Published Apps** • 3
+
+**Featured on the News** • 11
+
+*As of 18 July 2020, 8 AM*
+
+
+## Projects
+### Education • **PortableCL**
+[<img src="Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/portablecl/id1389024983)
+
+PortableCL is a Primary School Chinese learning app built to help students learn Chinese in a more effective manner through digital flashcards. 
+
+<img src="Projects/portablecl.png" width="200">
+
+---
+
+### Productivity • **Tasks - Productivity Elevated**
+[<img src="Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/tasks-productivity-elevated/id1440454388)
+
+Tasks - Productivity Elevated is a productivity app that helps users combat distractions by encouraging them to place their phones face-down and focus on the task at hand. 
+ 
+<img src="Projects/tasks.png" width="200">
+
+---
+
+### Utilities • **SST Announcer**
+[<img src="Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/sst-announcer/id683929182)
+
+SST Announcer was built to help students stay up to date with school announcements with ease and convenience. The app allows users to browse, pin and share important announcements made by the school. 
+ 
+<img src="Projects/announcer.png" width="200">
