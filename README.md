@@ -15,8 +15,8 @@ I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Stu
 
 ## Projects
 ### Education • **PortableCL**
-[![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](https://developer.apple.com/iphone/index.action)
-[![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg?style=flat)](https://developer.apple.com/ipad/)
+[![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat-square)](https://developer.apple.com/iphone/index.action)
+[![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg?style=flat-square)](https://developer.apple.com/ipad/)
 
 PortableCL is a Primary School Chinese learning app built to help students learn Chinese in a more effective manner through digital flashcards. 
 
@@ -27,7 +27,7 @@ PortableCL is a Primary School Chinese learning app built to help students learn
 ---
 
 ### Productivity • **Tasks - Productivity Elevated**
-[![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](https://developer.apple.com/iphone/index.action)
+[![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat-square)](https://developer.apple.com/iphone/index.action)
 
 Tasks - Productivity Elevated is a productivity app that helps users combat distractions by encouraging them to place their phones face-down and focus on the task at hand. 
  
@@ -40,9 +40,9 @@ Tasks - Productivity Elevated is a productivity app that helps users combat dist
 ### Utilities • **SST Announcer**
 [![GitHub Badge](https://img.shields.io/badge/-SST%20Announcer%20iOS-black?style=flat-square&logo=GitHub&logoColor=white/)](https://github.com/sst-inc/SST-Announcer-iOS/) 
 
-[![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](https://developer.apple.com/iphone/index.action)
-[![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg?style=flat)](https://developer.apple.com/ipad/)
-[![Mac](http://img.shields.io/badge/platform-MacOS-blue.svg?style=flat)](https://developer.apple.com/mac-catalyst/)
+[![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat-square)](https://developer.apple.com/iphone/index.action)
+[![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg?style=flat-square)](https://developer.apple.com/ipad/)
+[![Mac](http://img.shields.io/badge/platform-MacOS-blue.svg?style=flat-square)](https://developer.apple.com/mac-catalyst/)
 
 SST Announcer was built to help students stay up to date with school announcements with ease and convenience. The app allows users to browse, pin and share important announcements made by the school. 
  
