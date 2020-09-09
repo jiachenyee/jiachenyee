@@ -3,7 +3,7 @@
 
 I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Student Challenge and I developed 3 apps, [Tasks - Productivity Elevated](#productivity--tasks---productivity-elevated), [PortableCL](#education--portablecl) and [SST Announcer](#utilities--sst-announcer). 
 
-## Statistics 
+## 📈 Statistics 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jiachenyee&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiachenyee)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,7 +16,7 @@ I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Stu
 *As of 18 July 2020, 8 AM*
 
 
-## Projects
+## 🗂 Projects
 ### Education • **PortableCL**
 [![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat-square)](https://developer.apple.com/iphone/index.action)
 [![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg?style=flat-square)](https://developer.apple.com/ipad/)
@@ -54,3 +54,6 @@ SST Announcer was built to help students stay up to date with school announcemen
 [<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/sst-announcer/id683929182)
 
 ---
+
+## 📦 Package
+[![AttributedString](https://github-readme-stats.vercel.app/api/pin/?username=jiachenyee&repo=AttributedString)](https://github.com/jiachenyee/AttributedString/)
