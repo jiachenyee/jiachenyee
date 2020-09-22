@@ -1,4 +1,33 @@
 # Hi, I'm Jia Chen 👋
+### 🏆 Awards/Achievements
+![WWDC](https://img.shields.io/badge/-2020%20WWDC%20Scholar-black?style=for-the-badge&logo=apple&logoColor=white)
+
+### 💬 Languages
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFAA00?style=for-the-badge&logo=firebase&logoColor=white)
+![Google Drive](https://img.shields.io/badge/-Google%20Drive%20API-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+
+#### 👨‍💻 Developer Tools
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+#### 👨‍🎨 Design Tools
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+
+#### ⚡️ Others
+![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+---
+
 [![Instagram Badge](https://img.shields.io/badge/-jiachenyee-e04156?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/jiachenyee/)](http://instagram.com/jiachenyee/) [![Linkedin Badge](https://img.shields.io/badge/-Jia%20Chen%20Yee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jia-chen-yee/)](https://www.linkedin.com/in/jia-chen-yee/) 
 
 I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Student Challenge and I developed 3 apps, [Tasks - Productivity Elevated](#productivity--tasks---productivity-elevated), [PortableCL](#education--portablecl) and [SST Announcer](#utilities--sst-announcer). 
