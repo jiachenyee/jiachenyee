@@ -22,10 +22,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
 
-#### ⚡️ Others
-![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
-
 ---
 
 [![Instagram Badge](https://img.shields.io/badge/-jiachenyee-e04156?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/jiachenyee/)](http://instagram.com/jiachenyee/) [![Linkedin Badge](https://img.shields.io/badge/-Jia%20Chen%20Yee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jia-chen-yee/)](https://www.linkedin.com/in/jia-chen-yee/) 
