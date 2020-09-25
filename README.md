@@ -82,3 +82,4 @@ SST Announcer was built to help students stay up to date with school announcemen
 
 ## 📦 Package
 [![AttributedString](https://github-readme-stats.vercel.app/api/pin/?username=jiachenyee&repo=AttributedString)](https://github.com/jiachenyee/AttributedString/)
+[![ScrollSelection](https://github-readme-stats.vercel.app/api/pin/?username=jiachenyee&repo=ScrollSelection)](https://github.com/jiachenyee/ScrollSelection/)
