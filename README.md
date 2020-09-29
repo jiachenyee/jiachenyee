@@ -42,7 +42,10 @@ I am a Student Developer from Singapore 🇸🇬, I won Apple's WWDC20 Swift Stu
 
 
 ## 🗂 Projects
-### Education • **PortableCL**
+
+<h3> <img src=https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a4/e7/16/a4e71620-1ffa-892c-0684-39d0cc07c53e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/540x540sr.jpg width="20"> Education • PortableCL </h3>
+
+
 [![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat-square)](https://developer.apple.com/iphone/index.action)
 [![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg?style=flat-square)](https://developer.apple.com/ipad/)
 
@@ -50,22 +53,24 @@ PortableCL is a Primary School Chinese learning app built to help students learn
 
 <img src="https://github.com/jiachenyee/jiachenyee/raw/master/Projects/portablecl.png" width="200">
 
-[<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/portablecl/id1389024983)
+<a href="https://apps.apple.com/us/app/portablecl/id1389024983?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1529798400&h=b430dc79055c2d094aa56fc3eb4d280f" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
 ---
 
-### Productivity • **Tasks - Productivity Elevated**
+<h3> <img src=https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/39/28/47/392847a0-aa8d-3434-d222-7659c12d7e2f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/540x540sr.jpg width="20"> Productivity • Tasks - Productivity Elevated </h3>
+
 [![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat-square)](https://developer.apple.com/iphone/index.action)
 
 Tasks - Productivity Elevated is a productivity app that helps users combat distractions by encouraging them to place their phones face-down and focus on the task at hand. 
  
 <img src="https://github.com/jiachenyee/jiachenyee/raw/master/Projects/tasks.png" width="200">
 
-[<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/tasks-productivity-elevated/id1440454388)
+<a href="https://apps.apple.com/us/app/tasks-productivity-elevated/id1440454388?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1541376000&h=561e05398c4a2a59b5e291212d641520" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
 ---
 
-### Utilities • **SST Announcer**
+<h3> <img src=https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/c1/11/3cc11128-8136-234f-3016-8db8c7479265/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/540x540sr.jpg width="20"> Utilities • SST Announcer </h3>
+
 [![iOS](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat-square)](https://developer.apple.com/iphone/index.action)
 [![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg?style=flat-square)](https://developer.apple.com/ipad/)
 [![Mac](http://img.shields.io/badge/platform-MacOS-blue.svg?style=flat-square)](https://developer.apple.com/mac-catalyst/)
@@ -76,7 +81,7 @@ SST Announcer was built to help students stay up to date with school announcemen
  
 <img src="https://github.com/jiachenyee/jiachenyee/raw/master/Projects/announcer.png" width="200">
 
-[<img src="https://github.com/jiachenyee/jiachenyee/raw/master/Assets/AppStore.svg" width="100">](https://apps.apple.com/sg/app/sst-announcer/id683929182)
+<a href="https://apps.apple.com/us/app/sst-announcer/id683929182?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1377129600&h=a6418a15163d0179d523790ca124736e" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
 ---
 
