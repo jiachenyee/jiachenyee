@@ -1,6 +1,6 @@
 # Hi, I'm Jia Chen 👋
 ### 🏆 Awards/Achievements
-![WWDC](https://img.shields.io/badge/-2020%20WWDC%20Scholar-black?style=for-the-badge&logo=apple&logoColor=white)
+![WWDC](https://img.shields.io/badge/-2020%20WWDC%20Scholar-black?style=for-the-badge&logo=apple&logoColor=white) ![WWDC21](https://img.shields.io/badge/-2021%20WWDC%20Scholar-black?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 💬 Languages
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
