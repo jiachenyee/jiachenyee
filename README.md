@@ -14,6 +14,7 @@ I'm from Singapore and the developer of Friction - Draw on your Mac, SST Announc
 - [PortableCL](https://apps.apple.com/sg/app/portablecl/id1389024983): A Primary School Chinese learning app
 - [Personal Website](https://jiachenyee.com)
 - [learn.swiftinsg.org](https://learn.swiftinsg.org): A SwiftUI tutorials site
+- [Buzzer Pro Max](http://github.com/jiachenyee/Buzzer-Pro-Max): A Buzzer app designed for the Swift Accelerator 2021 graduation. It features 3 collaborative games, a trivia, a clicker and a drawing game.
 
 ### 🏆 Awards/Achievements
 ![WWDC](https://img.shields.io/badge/-2020%20WWDC%20Scholar-black?style=for-the-badge&logo=apple&logoColor=white) ![WWDC21](https://img.shields.io/badge/-2021%20WWDC%20Scholar-black?style=for-the-badge&logo=apple&logoColor=white)
