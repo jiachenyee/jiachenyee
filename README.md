@@ -1,4 +1,6 @@
+[![modal_jiachen_yee_2__ghl0vo242ci2_medium](https://github.com/jiachenyee/jiachenyee/assets/36725840/2365e224-9aa8-44ff-af24-9efeeea15291)](https://www.apple.com/sg/education/college-students/#jiachen-yee)
 # Hi, I'm Jia Chen 👋
+
 ---
 ### 🛠 Projects
 - [Overengineered Arrow Keys](https://oak.jiachen.app): A clicker. A super simple clicker app, it does one thing, and does it really well.
